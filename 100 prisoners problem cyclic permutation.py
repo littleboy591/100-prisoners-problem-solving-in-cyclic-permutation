@@ -102,7 +102,7 @@ while run:
 
 
 
-    #Prisinors' time to test thier luck (:-)
+    #Prisinors' time to test their luck (:-)
     pygame.draw.rect(screen,go_color,go_but)
     screen.blit(pygame.font.SysFont('consolas',20).render("send pr.",True,(0,0,0)),(556,33))
 
