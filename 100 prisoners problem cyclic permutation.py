@@ -2,7 +2,6 @@ import pygame
 import random
 import math
 
-import pygame.camera
 
 pygame.init()
 screen = pygame.display.set_mode((1000,600))
